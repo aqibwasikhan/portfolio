@@ -2,56 +2,55 @@ const projects = {
     heading: `Things I've Worked on`,
     list: [
         {
-            image: '/assets/projects/PIAIC.png',
+            image: '/assets/olx.gif',
             label: 'Featured Project',
-            title: 'PIAIC Web/Portal',
-            description: 'The mission of PIAIC is to reshape Pakistan by revolutionizing education, research, and business by adopting latest, cutting-edge technologies.',
+            title: 'OLX Web Clone',
+            description: 'OLX web app clone by using React.js with firebase functionalities and authentication',
             techs: [
                 'React Js',
-                'Express Js',
-                'Mongodb',
+                'Firestore',
             ]
         },
         {
-            image: '/assets/projects/digitalplattform.png',
+            image: '/assets/foodpanda.gif',
             label: 'Featured Project',
-            title: 'Digital Plattform',
-            description: 'A Platform that offers everything from marketing strategy and solving technical challenges to content creation for social media',
+            title: 'Foodpanda Native clone',
+            description: 'A Foodpanda Native app clone by Using React Native Expo and Redux for manage Local cart data and states',
             techs: [
-                'React Js',
-                'Express Js',
-                'GraphQl/Apollo',
-                'Mongodb',
+                'React Native',
+                'Expo',
+                'Redux',
+
             ]
         },
         {
-            image: '/assets/projects/declinica.png',
+            image: '/assets/expense.gif',
             label: 'Featured Project',
-            title: 'Declinica',
-            description: 'A Decentralised blockchain Designed for the medical community.',
+            title: 'Expense Tracker',
+            description: 'A web app that tracks all your expenses and income by using react js and context api for manage data and states.',
             techs: [
                 'React Js',
-                'Web3 Js',
             ]
         },
         {
-            image: '/assets/projects/rolazdoro.png',
+            image: '/assets/quiz.gif',
             label: 'Featured Project',
-            title: `Rolaz D'oro`,
-            description: `One of the main objective of Rolaz D'ORO is to make gold easily accessible to even small investors in a trusted and secure environment, with the peace of mind that their investments are traceable and could be claimed at any stated time.`,
+            title: `Quiz app `,
+            description: `Quiz web app by using React.js, Context API and Trivia API`,
             techs: [
                 'React Js',
-                'Web3 Js',
+                
             ]
         },
         {
-            image: '/assets/projects/chainracers.png',
-            label: 'Featured Project',
-            title: `Chainracers`,
-            description: `ChainRacers is a play-to-earn NFT Race Battle Game. The GammaVerse, our growing MetaVerse featuring characters, worlds, arenas, and more, will kick things off with 8,888 unique generative NFT sets. Each set will include a NFT Racer and NFT Rider.`,
+            image: '/assets/todo.gif',
+            label: 'Basic Project',
+            title: `TODO LIST`,
+            description: `Todo list app by using pure Html, Css and vanilla javascript`,
             techs: [
-                'React Js',
-                'Web3 Js',
+                'Html',
+                'Css',
+                'Javascript'
             ]
         }
     ]

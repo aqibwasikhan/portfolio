@@ -63,13 +63,13 @@ export default function Home() {
           <Graphis data={graphics} />
         </ViewElement> */}
 
-        <ViewElement id="certifications">
+        {/* <ViewElement id="certifications">
           <Certifications data={certifications} />
-        </ViewElement>
+        </ViewElement> */}
 
-        <ViewElement id="contributions">
+        {/* <ViewElement id="contributions">
           <MapsContribution data={mapsContribution} />
-        </ViewElement>
+        </ViewElement> */}
 
         <ViewElement id="contact">
           <Contact data={contact} />

@@ -1,5 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import { Parallax } from "react-scroll-parallax";
+import Image from "next/image";
+
 import A from "./muneebkhanSVGs/A";
 import B from "./muneebkhanSVGs/B";
 import E1 from "./muneebkhanSVGs/E1";
@@ -44,7 +46,7 @@ export default function MuneebKhan({ }) {
 
   return (
     <div ref={ref} className={`mk-muneeb-khan ${mount ? 'mk-muneeb-khan-visible' : ''}`}>
-      <SvgWrapper
+      {/* <SvgWrapper
         className="mk_svg_M"
         SVG={M}
       />
@@ -91,7 +93,15 @@ export default function MuneebKhan({ }) {
       <SvgWrapper
         className="mk_svg_N2"
         SVG={N2}
-      />
+      /> */}
+      {/* <img src="/assets/aqibkhan.gif"  alt="AQIB WASI KHAN" /> */}
+      <Image
+      // loader={myLoader}
+      src="/assets/aqibkhan.gif"
+      alt="Picture of the author"
+      width={600}
+      height={100}
+    />
     </div>
   )
 }

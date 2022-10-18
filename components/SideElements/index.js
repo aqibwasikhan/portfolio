@@ -5,6 +5,7 @@ import GitHub from '../SVGs/GitHub'
 import Instagram from '../SVGs/Instagram'
 import LinkedIn from '../SVGs/LinkedIn'
 import Twitter from '../SVGs/Twitter'
+import Whatsapp from '../SVGs/Whatsapp'
 
 const SideElementsItem = ({ items, position }) => {
     return (
@@ -30,6 +31,7 @@ const SideElements = ({ data: {
             <SideElementsItem
                 position="left"
                 items={[
+                    <Whatsapp onClick={() => handleIconClick('whatsapp')} key="LinkedIn" width={20} height={20} />,
                     <GitHub onClick={() => handleIconClick('github')} key="GitHub" width={20} height={20} />,
                     <Instagram onClick={() => handleIconClick('instagram')} key="Instagram" width={20} height={20} />,
                     <Twitter onClick={() => handleIconClick('twitter')} key="Twitter" width={20} height={20} />,

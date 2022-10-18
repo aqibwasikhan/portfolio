@@ -8,8 +8,8 @@ const contact = {
         label: 'Say Hello',
         onClick: () => openLink('mailto:aqibwasikhan43@gmail.com?subject=Hello')
     },
-    designAndBuiltBy: 'Designed & Built By Muneeb Khan',
-    handleBuiltByClick: () => openLink('https://github.com/Muneebwasikhan/portfolio')
+    designAndBuiltBy: '',
+    handleBuiltByClick: () => openLink('https://github.com/aqibwasikhan')
 
 }
 

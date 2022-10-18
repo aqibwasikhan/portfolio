@@ -60,7 +60,7 @@ const Contact = ({ data: {
                             <div>{designAndBuiltBy}</div>
                             {!!(githubInfo.stars && githubInfo.forks) && (
                                 <div>
-                                    <span>
+                                    {/* <span>
                                         <Star />
                                         <>{' '}{githubInfo.stars.toLocaleString()}</>
                                     </span>
@@ -68,7 +68,7 @@ const Contact = ({ data: {
                                     <span>
                                         <GitFork />
                                         <>{' '}{githubInfo.forks.toLocaleString()}</>
-                                    </span>
+                                    </span> */}
                                 </div>
                             )}
                         </div>

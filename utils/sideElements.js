@@ -6,7 +6,7 @@ const handleIconClick = (icon) => {
         'instagram': 'https://www.instagram.com/its_aqib_khan_yousufzaii/',
         'twitter': 'https://twitter.com/its_aqib_khan',
         'linkedin': 'https://www.linkedin.com/in/aqib-khan-0539b3196/',
-        'whatsapp': 'https://wa.me//03436962528',
+        'whatsapp': 'https://wa.me//03362508193',
     }
     openLink(links[icon])
 }

@@ -39,15 +39,7 @@ const works = {
 
             ],
         },
-        {
-            company: 'Panacloud',
-            role: 'Junior MERN Developer',
-            duration: 'Onsite | July 2022 - Sep 2012',
-            points: [
-                `Worked for almost 2 months with the most efficient team. There I got
-                experience on working on Pakistan’s Presidential Program PIAIC`,
-            ],
-        },
+        
         {
             company: 'Call Riser',
             role: 'Customer Representative',
@@ -55,6 +47,20 @@ const works = {
             points: [
                 `I worked there for almost 5 months as a call center agent  
                 in Call Riser United State Campaign of US Medicare`,
+            ],
+        },
+{
+            company: 'All Star Technology,',
+            role: 'A Frontend Developer',
+            duration: 'Onsite | July 2022 - Sep 2012',
+            points: [
+                `During my 1.5year tenure,Icollaborated withahighlye cientteam,
+ contributing to various projects. My role primarily involved working with
+ advanced frontend technologies including React.js,Next.Js and Angular
+ coupled with APIintegration. I demonstrated proficiency in HTML, CSS,
+ Tailwind css,Bootstrap, and Ant Design. Additionally, I gained experience in
+ Next.js, Firebase, and MongoDBcampus,further enhancingmy
+ development skills and technical versatility.`,
             ],
         },
     ]

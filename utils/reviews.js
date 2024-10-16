@@ -9,7 +9,7 @@ const reviews = {
         {
             clinet: '',
             via: '',
-            reivew: 'Aqib is a great product leader and developer. He helped me accelerate my development by collaborating with many engineers and helped me build my app. I look forward to working with Muneeb again',
+            reivew: 'Aqib is a great product leader and developer. He helped me accelerate my development by collaborating with many engineers and helped me build my app. I look forward to working with Aqib again',
         },
         {
             clinet: '',

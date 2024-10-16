@@ -19,16 +19,17 @@ const mySelf = {
         'HTML',
         'Css',
         'Bootstrap',
+        'Tailwind',
         'Git',
         'Firestore',
-        'JavaScript/TypeScript',
+       
     ],
     techList2: [
         'React.js',
         'ReactNative',
-        'Express.js',
-        'Node.js',
-        // 'Firestore',
+        'Angular',
+        'Next.js',
+        'JavaScript/TypeScript',
         'MongoDB'
     ],
     image: '/assets/aqib1.jpg',

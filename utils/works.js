@@ -11,14 +11,14 @@ const works = {
     // GraphQL, Apollo and many more techs.`,
     //         ],
     //     },
-        {
-            company: 'Daily Cart',
-            role: 'Data Entry Operator',
-            duration: 'Remote | Jun 2019 - Jun 2020',
-            points: [
-                `I Worked On Daily Cart Data & Product entry platform`,
-            ],
-        },
+        // {
+        //     company: 'Daily Cart',
+        //     role: 'Data Entry Operator',
+        //     duration: 'Remote | Jun 2019 - Jun 2020',
+        //     points: [
+        //         `I Worked On Daily Cart Data & Product entry platform`,
+        //     ],
+        // },
         // {
         //     company: 'Upwork & Fiver',
         //     role: 'Full Stack Developer',
@@ -29,38 +29,32 @@ const works = {
         //         including blockchain and Javascript.`,
         //     ],
         // },
-        {
-            company: 'ARY JEWELLERS',
-            role: 'CRO (Customer Relation Officer)',
-            duration: 'Onsite | Sep 2021 - june 2022',
-            points: [
-                'I worked as a CRO ',
-                'And i also Worked on excel For data Entry',
+        // {
+        //     company: 'ARY JEWELLERS',
+        //     role: 'CRO (Customer Relation Officer)',
+        //     duration: 'Onsite | Sep 2021 - june 2022',
+        //     points: [
+        //         'I worked as a CRO ',
+        //         'And i also Worked on excel For data Entry',
 
-            ],
-        },
+        //     ],
+        // },
         
-        {
-            company: 'Call Riser',
-            role: 'Customer Representative',
-            duration: 'Onsite | Jul 2021 - Nov 2021',
-            points: [
-                `I worked there for almost 5 months as a call center agent  
-                in Call Riser United State Campaign of US Medicare`,
-            ],
-        },
+        // {
+        //     company: 'Call Riser',
+        //     role: 'Customer Representative',
+        //     duration: 'Onsite | Jul 2021 - Nov 2021',
+        //     points: [
+        //         `I worked there for almost 5 months as a call center agent  
+        //         in Call Riser United State Campaign of US Medicare`,
+        //     ],
+        // },
 {
             company: 'All Star Technology,',
             role: 'A Frontend Developer',
-            duration: 'Onsite | July 2022 - Sep 2012',
+            duration: 'Onsite | July 2023 - Present',
             points: [
-                `During my 1.5year tenure,Icollaborated withahighlye cientteam,
- contributing to various projects. My role primarily involved working with
- advanced frontend technologies including React.js,Next.Js and Angular
- coupled with APIintegration. I demonstrated proficiency in HTML, CSS,
- Tailwind css,Bootstrap, and Ant Design. Additionally, I gained experience in
- Next.js, Firebase, and MongoDBcampus,further enhancingmy
- development skills and technical versatility.`,
+                `I collaborate with a highly efficient team, contributing to various projects, including the development of a freelancing platform and a services platform. Our primary focus has been on healthcare products, specifically creating a comprehensive healthcare EMR system. My role primarily involves working with advanced frontend technologies such as React.js, Next.js, Angular, and Angular ag-Grid, coupled with API integration. I demonstrate proficiency in HTML, CSS, Tailwind CSS, Bootstrap, and Ant Design. Additionally, I have gained experience in Next.js, Firebase, and MongoDB, further enhancing my development skills and technical versatility.`,
             ],
         },
     ]

@@ -23,25 +23,25 @@ const projects = {
 
             ]
         },
-        {
-            image: '/assets/expense.gif',
-            label: 'Featured Project',
-            title: 'Expense Tracker',
-            description: 'A web app that tracks all your expenses and income by using react js and context api for manage data and states.',
-            techs: [
-                'React Js',
-            ]
-        },
-        {
-            image: '/assets/quiz.gif',
-            label: 'Featured Project',
-            title: `Quiz app `,
-            description: `Quiz web app by using React.js, Context API and Trivia API`,
-            techs: [
-                'React Js',
+        // {
+        //     image: '/assets/expense.gif',
+        //     label: 'Featured Project',
+        //     title: 'Expense Tracker',
+        //     description: 'A web app that tracks all your expenses and income by using react js and context api for manage data and states.',
+        //     techs: [
+        //         'React Js',
+        //     ]
+        // },
+        // {
+        //     image: '/assets/quiz.gif',
+        //     label: 'Featured Project',
+        //     title: `Quiz app `,
+        //     description: `Quiz web app by using React.js, Context API and Trivia API`,
+        //     techs: [
+        //         'React Js',
                 
-            ]
-        },
+        //     ]
+        // },
         {
             image: '/assets/todo.gif',
             label: 'Basic Project',
